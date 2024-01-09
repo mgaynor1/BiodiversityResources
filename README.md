@@ -25,8 +25,6 @@ If you are new to R-based coding, I suggest you start with [my Biodiversity Lite
 
 This repository contains workshop material for "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" which the Soltis lab presents at the annual Botany meetings. This contains the material used in the 2020, 2021, 2022, and 2023. This workshop was often done in conjuction with Biotaphy, so this repository contains material outside of the scope of my work. As an undergraduate in 2017, I learned all about ENMs with biodiversity occurrence data from Blaine Marchant. When I started as a graduate research assistant with iDigBio in Fall 2018, I started to modify this material to include new methods I was learning. With every additional workshop/course/office-hour I helped lead, I learned something new that I would incorporate into this material. In Spring 2020 and Summer 2021, I heavily revised this material so that it could be used by undergraduate researchers. In Summer 2022 and 2023, I modify this material to include our package gatoRs. This workshop will likely be updated every summer, as we present the "Using Digitized Collections-Based Data in Research: Applications for Ecology, Phylogenetics, and Biogeography" workshop at the annual Botany meeting each year. You can see the [latest workshop version here](https://github.com/soltislab/BotanyENMWorkshops). 
 
-A version of the workshops can also be found in [mgaynor1/ENMCrashCourse](https://github.com/mgaynor1/ENMCrashCourse)
-
 ![General Flowchart](Gaynorcrop.png)     
 
 <img align="right" src="gators.png" width=150> 
