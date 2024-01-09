@@ -116,8 +116,7 @@ Folk RA*, Gaynor ML*, Engle-Wrye NJ, O’Meara BC, Soltis PS, Soltis DS, Guralni
 [ryanafolk/pno_calc](https://github.com/ryanafolk/pno_calc)             
 [ryanafolk/ambitus](https://github.com/ryanafolk/ambitus)           
 [ryanafolk/eco-discretizer](https://github.com/ryanafolk/eco-discretizer)           
-[richiehodel/Amborella_ENM](https://github.com/richiehodel/Amborella_ENM)         
-[jjantzen/CommPhylogeneticsOSBS](https://github.com/jjantzen/CommPhylogeneticsOSBS)   
+
 
       
   
