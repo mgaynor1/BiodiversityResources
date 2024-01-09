@@ -1,6 +1,5 @@
 # Biodiversity Informatics Resources
 
-<img align="right" src="ENMCrashCourseHex.png" width=150>   
 
 **Michelle L. Gaynor**   
 
