@@ -93,6 +93,18 @@ Short snibits of code I generated related to using Digitized Natural History Col
 - [SERNEC-R](https://gist.github.com/mgaynor1/fe89d841b8768f2c4556d9fe6433079a)        
       - We wanted to combined data downloaded via SERNEC with data download using early functions of the gators R package functions.        
 
+# Folk and Gaynor et al. 2023  
+
+I had the opportunity to work with Ryan Folk on this fun project which resulted in many repositories related to biodiversity informatics:
+
+- [mgaynor1/Paleogenerate](https://github.com/mgaynor1/PaleoGenerate) - R scripts to generate Bioclim variables at time points between 0 and 3.3 million years ago (MYA).
+- [ryanafolk/utremi](https://github.com/ryanafolk/utremi) - Manuscript repository which includes application of [predicted niche occupancy ancestral reconstruction using a maximum-likelihood-based approach](https://github.com/biotaphy/BiotaPhyPy/blob/main/biotaphy/tools/ancestral_distribution.py). 
+- [ryanafolk/spatial_utilities](https://github.com/ryanafolk/spatial_utilities) - Utility scripts by Ryan Folk.
+- [ryanafolk/pno_calc](https://github.com/ryanafolk/pno_calc) - Predicted niche occupancy calculation by Ryan Folk.
+- [ryanafolk/tree_utilities/blob/master/simulate_gene_trees.py](https://github.com/ryanafolk/tree_utilities/blob/master/simulate_gene_trees.py) - Gene tree simulation by Ryan Folk.
+
+Folk RA*, Gaynor ML*, Engle-Wrye NJ, O’Meara BC, Soltis PS, Soltis DS, Guralnick RP, Smith SA, Grady CJ, & Okuyama Y. 2023. Identifying climatic drivers of hybridization with a new ancestral niche reconstruction method. [Systematic Biology, syad018](https://doi.org/10.1093/sysbio/syad018)
+
 
 # Others Resources
 [QGIS Introduction - RhettRautsaw/GIS_Tutorial](https://github.com/RhettRautsaw/GIS_Tutorial)           
