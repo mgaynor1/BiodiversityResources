@@ -107,15 +107,16 @@ Folk RA*, Gaynor ML*, Engle-Wrye NJ, O’Meara BC, Soltis PS, Soltis DS, Guralni
 
 
 # Others Resources
-[QGIS Introduction - RhettRautsaw/GIS_Tutorial](https://github.com/RhettRautsaw/GIS_Tutorial)           
-[SDM Best Practices](https://github.com/plantarum/sdm-best-practices/wiki)    
-[mbelitz/Odo_SDM_Rproj](https://github.com/mbelitz/Odo_SDM_Rproj)              
-[richiehodel/Amborella_ENM](https://github.com/richiehodel/Amborella_ENM)         
-[jjantzen/CommPhylogeneticsOSBS](https://github.com/jjantzen/CommPhylogeneticsOSBS)   
-[aemelton/EA_ENA_ENM](https://github.com/aemelton/EA_ENA_ENM)             
-[ryanafolk/pno_calc](https://github.com/ryanafolk/pno_calc)             
-[ryanafolk/ambitus](https://github.com/ryanafolk/ambitus)           
-[ryanafolk/eco-discretizer](https://github.com/ryanafolk/eco-discretizer)           
+- [QGIS Introduction - RhettRautsaw/GIS_Tutorial](https://github.com/RhettRautsaw/GIS_Tutorial)
+- [SDM Best Practices](https://github.com/plantarum/sdm-best-practices/wiki)
+- [mbelitz/Odo_SDM_Rproj](https://github.com/mbelitz/Odo_SDM_Rproj)
+- [richiehodel/Amborella_ENM](https://github.com/richiehodel/Amborella_ENM)
+- [jjantzen/CommPhylogeneticsOSBS](https://github.com/jjantzen/CommPhylogeneticsOSBS)
+- [aemelton/EA_ENA_ENM](https://github.com/aemelton/EA_ENA_ENM)
+- [ryanafolk/ambitus](https://github.com/ryanafolk/ambitus)
+- [ryanafolk/eco-discretizer](https://github.com/ryanafolk/eco-discretizer)
+- Check out Max Gebhart's Master research: Gebhart, M.G. and Wersal, R.M., 2023. Ecological niche modeling of diploid flowering rush (Butomus umbellatus L.) in the United States. [Journal of Freshwater Ecology, 39(1), p.2292232.](https://doi.org/10.1080/02705060.2023.2292232)
+
 
 
       
