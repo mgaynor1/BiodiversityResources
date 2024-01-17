@@ -86,6 +86,8 @@ Ron and Erica also created some great demos/resources. Here are just some of my 
 
 **Gists**  
 Short snibits of code I generated related to using Digitized Natural History Collections data in research.
+- [Searching the ScientificName Field](https://gist.github.com/mgaynor1/8231646b6614c29d384a387ce6731e7b)
+    - Compares three approaches for retrieving records from iDigBio based on the scientificname field.
 - [Milton Tan](https://gist.github.com/mgaynor1/86cf5e5d741e3aa8a1a61c52bd667eb7)        
       - Milton wanted to know how to download records with the ridigbio API based on Institution ID and Catelog Number.   
 - [spocc_combine loop](https://gist.github.com/mgaynor1/f51b6735afc442f1338f244e6e0f9a9a)     
