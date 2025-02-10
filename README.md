@@ -107,6 +107,9 @@ I had the opportunity to work with Ryan Folk on this fun project which resulted 
 
 Folk RA*, Gaynor ML*, Engle-Wrye NJ, O’Meara BC, Soltis PS, Soltis DS, Guralnick RP, Smith SA, Grady CJ, & Okuyama Y. 2023. Identifying climatic drivers of hybridization with a new ancestral niche reconstruction method. [Systematic Biology, syad018](https://doi.org/10.1093/sysbio/syad018)
 
+# ridigbio documentation 
+
+In January 2023, I updated the documentation for [ridigbio](https://cloud.r-project.org/web/packages/ridigbio/index.html) and added [a pkgdown site](https://idigbio.github.io/ridigbio/index.html). 
 
 # Others Resources
 - [QGIS Introduction - RhettRautsaw/GIS_Tutorial](https://github.com/RhettRautsaw/GIS_Tutorial)
